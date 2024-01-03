@@ -65,6 +65,8 @@ body {
 }
 
 #result {
+  display: flex;
+  justify-content: space-evenly;
   max-width: 50rem;
   margin: 2rem auto;
   padding: 1rem;
