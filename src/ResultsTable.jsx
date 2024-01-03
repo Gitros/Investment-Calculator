@@ -1,4 +1,4 @@
-function ResultsTable() {
+function ResultsTable({ input }) {
     return (
         <table id="result">
             <thead>Year</thead>
